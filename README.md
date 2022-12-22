@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kasimbasaragi
-- 👀 I’m interested in Python Development, AI, ML, DL, Data Analyse
-- 🌱 I’m currently learning data science, RHEL8, SQL server
+- 👀 I’m interested in Linux Adminisrator, Devops, AI, ML, DL, Data Analyse
+- 🌱 I’m currently complited RHEL8, SQL server
 - 📫 How to reach me - kasimbasaragi@gmail.com
 
 <!---
