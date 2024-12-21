@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kasimbasaragi
-- 👀 I’m interested in Linux Adminisrator, Devops, Ansible, Docker, terraform, Kubernetes
-- 🌱 I’m currently complited RHEL8, SQL server
+- 👀 I’m interested in Devops, Linux Adminisrator, Ansible, Docker, terraform, Kubernetes
 - 📫 How to reach me - kasimbasaragi@gmail.com
 
 <!---
