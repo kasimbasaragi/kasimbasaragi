@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kasimbasaragi
-- 👀 I’m interested in Devops, Kubernetes,Linux Adminisrator, Ansible, Docker, terraform,
+- 👀 I’m interested in Devops, Kubernetes,Linux Adminisrator, Ansible, Docker, Terraform, AWS, Prometheus, Grafana, ELK
 - 📫 How to reach me - kasimbasaragi@gmail.com
 
 <!---
